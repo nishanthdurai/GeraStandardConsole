@@ -17,7 +17,7 @@ internal static class SanBuilder
         var originalPos = new Position();
         var isCapture = false;
 
-        foreach (var group in matches[0].Groups.Values)
+        foreach (var group in matches[0].Groups.ToList())
         {
             if (!group.Success) continue;
 
@@ -214,20 +214,21 @@ internal static class SanBuilder
         var ambiguousMoves = GetMovesOfPieceOnPosition(move.Piece, move.NewPosition, board).Where(m => m.OriginalPosition != move.OriginalPosition).ToList();
 
         Span<char> span = stackalloc char[2];
+        int offset = 0;
 
         if (ambiguousMoves.Any())
         {
             if (ambiguousMoves.Any(m => m.OriginalPosition.Y == move.OriginalPosition.Y))
-                span[0] = move.OriginalPosition.File();
+                span[offset++] = move.OriginalPosition.File();
 
             if (ambiguousMoves.Any(m => m.OriginalPosition.X == move.OriginalPosition.X))
-                span[1] = move.OriginalPosition.Rank();
+                span[offset++] = move.OriginalPosition.Rank();
 
             if (!char.IsLetterOrDigit(span[0]) && !char.IsLetterOrDigit(span[1]))
-                span[0] = move.OriginalPosition.File();
+                span[offset++] = move.OriginalPosition.File();
         }
 
-        return new ReadOnlySpan<char>(span.Trim(stackalloc char[] { '\0' }).ToArray());
+        return new ReadOnlySpan<char>(span.Slice(0, offset).ToArray());
     }
 
     private static IEnumerable<Move> GetMovesOfPieceOnPosition(Piece piece, Position newPosition, ChessBoard board)
