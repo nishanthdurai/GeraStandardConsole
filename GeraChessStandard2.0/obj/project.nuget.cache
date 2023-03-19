@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eSOhvz9204cmiVV4/yvcKFMra31eS76ZHN0Q5kQGv+5T/7GMZooG/ERot5m1fmVeECQVr/c4+i9SMsJ0KZp2rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nishanth\\Desktop\\personal-workspace\\dotnet\\CustomChessLib\\customChessLibrary\\GeraChessStandard2.0\\GeraChessStandard2.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nishanth\\.nuget\\packages\\ardalis.smartenum\\2.0.1\\ardalis.smartenum.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

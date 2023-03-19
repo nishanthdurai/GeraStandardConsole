@@ -1,0 +1,10 @@
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\CustomChessLib\customChessLibrary\customChessLibrary\obj\Debug\netstandard2.1\customChessLibrary.csproj.AssemblyReference.cache
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\CustomChessLib\customChessLibrary\customChessLibrary\obj\Debug\netstandard2.1\customChessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\CustomChessLib\customChessLibrary\customChessLibrary\obj\Debug\netstandard2.1\customChessLibrary.AssemblyInfoInputs.cache
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\CustomChessLib\customChessLibrary\customChessLibrary\obj\Debug\netstandard2.1\customChessLibrary.AssemblyInfo.cs
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\CustomChessLib\customChessLibrary\customChessLibrary\obj\Debug\netstandard2.1\customChessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\CustomChessLib\customChessLibrary\customChessLibrary\bin\Debug\netstandard2.1\customChessLibrary.deps.json
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\CustomChessLib\customChessLibrary\customChessLibrary\bin\Debug\netstandard2.1\customChessLibrary.dll
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\CustomChessLib\customChessLibrary\customChessLibrary\bin\Debug\netstandard2.1\customChessLibrary.pdb
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\CustomChessLib\customChessLibrary\customChessLibrary\obj\Debug\netstandard2.1\customChessLibrary.dll
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\CustomChessLib\customChessLibrary\customChessLibrary\obj\Debug\netstandard2.1\customChessLibrary.pdb
