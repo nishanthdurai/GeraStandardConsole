@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZpTcaZ8DwQZMP0UtAHBN+X8za7xX3eLM6fe+BTJsPPipi7vvrdK88vuhfF/G8MPdrjUNPDXlCQDAgchC/3HF8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nishanth\\Desktop\\personal-workspace\\dotnet\\ConsoleAppStandard\\ConsoleAppStandard\\ConsoleAppStandard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nishanth\\.nuget\\packages\\ardalis.smartenum\\2.0.1\\ardalis.smartenum.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

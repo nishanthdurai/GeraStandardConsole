@@ -1,0 +1,17 @@
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\ConsoleAppStandard\ConsoleAppStandard\obj\Debug\net6.0\ConsoleAppStandard.csproj.AssemblyReference.cache
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\ConsoleAppStandard\ConsoleAppStandard\obj\Debug\net6.0\ConsoleAppStandard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\ConsoleAppStandard\ConsoleAppStandard\obj\Debug\net6.0\ConsoleAppStandard.AssemblyInfoInputs.cache
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\ConsoleAppStandard\ConsoleAppStandard\obj\Debug\net6.0\ConsoleAppStandard.AssemblyInfo.cs
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\ConsoleAppStandard\ConsoleAppStandard\obj\Debug\net6.0\ConsoleAppStandard.csproj.CoreCompileInputs.cache
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\ConsoleAppStandard\ConsoleAppStandard\bin\Debug\net6.0\ConsoleAppStandard.exe
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\ConsoleAppStandard\ConsoleAppStandard\bin\Debug\net6.0\ConsoleAppStandard.deps.json
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\ConsoleAppStandard\ConsoleAppStandard\bin\Debug\net6.0\ConsoleAppStandard.runtimeconfig.json
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\ConsoleAppStandard\ConsoleAppStandard\bin\Debug\net6.0\ConsoleAppStandard.dll
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\ConsoleAppStandard\ConsoleAppStandard\bin\Debug\net6.0\ConsoleAppStandard.pdb
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\ConsoleAppStandard\ConsoleAppStandard\bin\Debug\net6.0\Ardalis.SmartEnum.dll
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\ConsoleAppStandard\ConsoleAppStandard\obj\Debug\net6.0\ConsoleAppStandard.csproj.CopyComplete
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\ConsoleAppStandard\ConsoleAppStandard\obj\Debug\net6.0\ConsoleAppStandard.dll
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\ConsoleAppStandard\ConsoleAppStandard\obj\Debug\net6.0\refint\ConsoleAppStandard.dll
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\ConsoleAppStandard\ConsoleAppStandard\obj\Debug\net6.0\ConsoleAppStandard.pdb
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\ConsoleAppStandard\ConsoleAppStandard\obj\Debug\net6.0\ConsoleAppStandard.genruntimeconfig.cache
+C:\Users\Nishanth\Desktop\personal-workspace\dotnet\ConsoleAppStandard\ConsoleAppStandard\obj\Debug\net6.0\ref\ConsoleAppStandard.dll
