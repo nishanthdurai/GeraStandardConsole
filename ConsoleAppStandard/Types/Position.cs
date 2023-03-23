@@ -2,7 +2,7 @@
 /// <summary>
 /// Position on Chess table counting from 0
 /// </summary>
-public class Position
+public struct Position
 {
     /// <summary>
     /// Whether X is between 0 and 7<br/>
